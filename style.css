@@ -1,0 +1,19 @@
+
+body {
+    background-color: black;
+    width: 400px;
+    margin: auto;
+}
+
+h1,
+h2,
+p,
+h3,
+ul,
+ol {
+    color:aliceblue;
+}
+
+a {
+    color:beige;
+}
